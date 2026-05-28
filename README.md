@@ -1,4 +1,4 @@
-Recall-Optimized K-Nearest Neighbors (KNN) for Supervised Tumor Malignancy Classification
+### Recall-Optimized K-Nearest Neighbors (KNN) for Supervised Tumor Malignancy Classification
 
 A clean, structured supervised machine learning project implementing the K-Nearest Neighbors (KNN) classification algorithm via scikit-learn to identify tissue malignancy. Because missing a malignant diagnosis (False Negative) has high clinical stakes, this pipeline includes a hyperparameter optimization landscape that specifically targets Recall during cross-validation.
 ## 📌 Performance Metrics Summary
